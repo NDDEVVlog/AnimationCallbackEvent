@@ -1,4 +1,4 @@
-# AnimationCallbackEvent
+làm# AnimationCallbackEvent
 A small script allows you to run multiple functions from differences object at animation frame
 
 First, Let talk about script animation callback event script.
@@ -25,3 +25,7 @@ Now, you can adjust whatever you want. It also can be update from animation wind
 
 Notice, Press SAVE to save your adjustment.
 
+A big thanks to YujenDev.
+This code belongs to him/her. I don't know
+You can check the original code via this link : https://gist.github.com/yujen/5e1cd78e2a341260b38029de08a449da
+All I did below is just adding some more things to suit my tool.
