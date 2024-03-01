@@ -1,4 +1,4 @@
-làm# AnimationCallbackEvent
+# AnimationCallbackEvent
 A small script allows you to run multiple functions from differences object at animation frame
 
 First, Let talk about script animation callback event script.
