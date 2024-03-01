@@ -24,8 +24,13 @@ Now, you can adjust whatever you want. It also can be update from animation wind
 ![image](https://github.com/NDDEVVlog/AnimationCallbackEvent/assets/111946313/e5152a0d-d733-4b6b-a09c-adfb35b019c8)
 
 Notice, Press SAVE to save your adjustment.
-
+## Reference
 A big thanks to YujenDev.
-This code belongs to him/her. I don't know
+This editor code belongs to him/her.( I don't know)
 You can check the original code via this link : https://gist.github.com/yujen/5e1cd78e2a341260b38029de08a449da
 All I did below is just adding some more things to suit my tool.
+And Sora for give and explain me the idea to make it.
+ ## Contact
+- Visit my YouTube channel: [NDDEV Game](https://www.youtube.com/@nddevgame) for more content.
+- Support me at : https://www.patreon.com/NDDEVGAME.
+- Like, share, and subscribe.
