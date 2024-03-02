@@ -1,5 +1,5 @@
 # AnimationCallbackEvent
-A small script allows you to run multiple functions from differences object at animation frame
+A small script allows you to run multiple functions from different object at animation frame
 
 First, Let talk about script animation callback event script.
 ![image](https://github.com/NDDEVVlog/AnimationCallbackEvent/assets/111946313/4e212252-bc5f-4966-8531-f48b9228050c)
